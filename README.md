@@ -1,3 +1,3 @@
-## GoBabber
+## GoBarber
 
-Projeto web do GoBabber RocketSeat
+Projeto web do GoBarber RocketSeat
