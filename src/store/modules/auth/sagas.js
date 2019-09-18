@@ -27,3 +27,4 @@ export function* signIn({ payload }) {
 }
 
 export default all([takeLatest('@auth/SIGN_IN_REQUEST', signIn)]);
+
