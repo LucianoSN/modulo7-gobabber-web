@@ -1,5 +1,5 @@
 import styled, { css } from 'styled-components';
-import PerfecScrollBar from 'react-perfect-scrollbar';
+import PerfectScrollBar from 'react-perfect-scrollbar';
 import { lighten } from 'polished';
 
 export const Container = styled.div`
@@ -49,7 +49,7 @@ export const NotificationList = styled.div`
 	}
 `;
 
-export const Scroll = styled(PerfecScrollBar)`
+export const Scroll = styled(PerfectScrollBar)`
 	max-height: 260px;
 	padding: 5px 15px;
 `;
