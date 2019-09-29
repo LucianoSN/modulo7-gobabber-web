@@ -17,7 +17,7 @@ const AvatarInput = () => {
 			registerField({
 				name: 'avatar_id',
 				ref: ref.current,
-				path: 'database.file',
+				path: 'dataset.file',
 			});
 		}
 	}, [ref, registerField]);
